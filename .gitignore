@@ -1,0 +1,35 @@
+# Xcode
+#
+.DS_Store
+*/build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+profile
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Objective-C/Swift specific
+#
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.swiftmodule
+*.swiftdoc
+Pods/
+*.xcodeproj/*.xcuserdatad/UserInterfaceState.xcuserstate
+
+# Google Services (e.g. APIs or Firebase)
+# GoogleService-Info.plist
+
