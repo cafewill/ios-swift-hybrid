@@ -7,7 +7,7 @@ This is a simple hybrid App (iOS, Swift)
 * Load your site, for example : github profile
 * Receive push notification token and messages.
 
-## Getting Start
+## Getting Started
 
 * Step 1 : First of all \
 pod install --verbose \
